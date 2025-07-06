@@ -1,10 +1,8 @@
-# ¡Hola! Soy Paz Emmanuel Balderas Cerezo
-# 👋 ¡Hola! Soy Emmanuel Balderas
+# 👋 ¡Hola! Soy Paz Emmanuel Balderas Cerezo
 
-🎯 Científico de Datos en formación | Python • SQL • Machine Learning  
-📊 Transformo datos en decisiones utilizando modelos predictivos, visualización efectiva y análisis profundo.  
-🚀 Estoy desarrollando proyectos con datos reales mientras construyo mi portafolio profesional.  
-📫 ¿Charlamos? pazemmanuel24032005@gmail.com
+🎯 Científico de Datos en formación | Python • SQL • Tableau • Power BI  
+📊 Transformo datos en decisiones estratégicas mediante análisis exploratorio, visualización y modelos predictivos.  
+🚀 Este es mi portafolio profesional, donde presento proyectos desarrollados durante el bootcamp de TripleTen.
 
 ---
 
@@ -49,3 +47,4 @@ Bienvenido/a a mi portafolio como **Analista de Datos**. Aquí encontrarás una 
 **Paz Emmanuel Balderas Cerezo**  
 📧 pazemmanuel24032005@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/paz-emmanuel-balderas-cerezo-dataanalyst)
+© 2025 Paz Emmanuel Balderas Cerezo
