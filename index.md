@@ -47,4 +47,5 @@ Bienvenido/a a mi portafolio como **Analista de Datos**. Aquí encontrarás una 
 **Paz Emmanuel Balderas Cerezo**  
 📧 pazemmanuel24032005@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/paz-emmanuel-balderas-cerezo-dataanalyst)
+
 © 2025 Paz Emmanuel Balderas Cerezo
