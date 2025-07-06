@@ -1,6 +1,0 @@
-# 👋 ¡Hola! Soy Emmanuel Balderas
-
-🎯 Científico de Datos en formación | Python • SQL • Machine Learning  
-📊 Transformo datos en decisiones utilizando modelos predictivos, visualización efectiva y análisis profundo.  
-🚀 Estoy desarrollando proyectos con datos reales mientras construyo mi portafolio profesional.  
-📫 ¿Charlamos? pazemmanuel24032005@gmail.com
